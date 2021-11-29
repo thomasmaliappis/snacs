@@ -1,0 +1,21 @@
+social:
+    aarhus:
+        nodes: 61
+        edges: 620
+        layers: 5
+
+    law:
+        nodes: 71
+        edges: 2571
+        layers: 3
+
+transportation:
+    eu airlines:
+        nodes: 450
+        edges: 3588
+        layers: 37
+
+    london transport:
+        nodes: 369
+        edges: 441
+        layers: 3
