@@ -298,6 +298,12 @@ int main(int argc, char *argv[]) {
     string networkName = argv[4];
     double threshold = stod(argv[5]);
     int measure = stoi(argv[6]);
+    string outputfile;
+    if (argc == 8) {
+        outputfile = argv[7];
+    } else {
+        outputfile = "motif_edges.txt";
+    }
 
     auto f_start = chrono::steady_clock::now();
     g = new Graph(numberLayers, numberNodes, networkName, threshold);
@@ -329,7 +335,7 @@ int main(int argc, char *argv[]) {
 
     //save edges of final motif set
     ofstream finalRes;
-    finalRes.open("motif_edges.txt");
+    finalRes.open(outputfile);
     for (int i = 0; i < selectEdge.size(); i++) {
         finalRes << g->edgeset[selectEdge[i]].first << "\t" << g->edgeset[selectEdge[i]].second << endl;
     }
