@@ -110,7 +110,9 @@ void Graph::findMotifs(vector<Motif *> &pattern, int caseN) {
                                 nodeIndex.push_back(edgeIntSet[index2].second);
                                 sort(nodeIndex.begin(), nodeIndex.end());
                                 nodeIndex.erase(unique(nodeIndex.begin(), nodeIndex.end()), nodeIndex.end());
-                                nodes[nodeIndex[0]] = nodes[nodeIndex[1]] = nodes[nodeIndex[2]] = 1;
+                                for (int j = 0; j < nodeIndex.size(); ++j) {
+                                    nodes[nodeIndex[j]] = 1;
+                                }
                                 Motif *t = new Motif(count, edges, nodes, back);
                                 pattern.push_back(t);
                                 count++;
@@ -132,7 +134,9 @@ void Graph::findMotifs(vector<Motif *> &pattern, int caseN) {
                                 nodeIndex.push_back(edgeIntSet[index2].second);
                                 sort(nodeIndex.begin(), nodeIndex.end());
                                 nodeIndex.erase(unique(nodeIndex.begin(), nodeIndex.end()), nodeIndex.end());
-                                nodes[nodeIndex[0]] = nodes[nodeIndex[1]] = nodes[nodeIndex[2]] = 1;
+                                for (int j = 0; j < nodeIndex.size(); ++j) {
+                                    nodes[nodeIndex[j]] = 1;
+                                }
                                 Motif *t = new Motif(count, edges, nodes, back);
                                 pattern.push_back(t);
                                 count++;
@@ -194,7 +198,9 @@ void Graph::findMotifs(vector<Motif *> &pattern, int caseN) {
                                         nodeIndex.push_back(edgeIntSet[index3].second);
                                         sort(nodeIndex.begin(), nodeIndex.end());
                                         nodeIndex.erase(unique(nodeIndex.begin(), nodeIndex.end()), nodeIndex.end());
-                                        nodes[nodeIndex[0]] = nodes[nodeIndex[1]] = nodes[nodeIndex[2]] = nodes[nodeIndex[3]] = 1;
+                                        for (int j = 0; j < nodeIndex.size(); ++j) {
+                                            nodes[nodeIndex[j]] = 1;
+                                        }
                                         Motif *t = new Motif(count, edges, nodes, back);
                                         pattern.push_back(t);
 //										cout<<"Motif "<<count<<":\t"<<edgeset[index1].first<<"\t"<<edgeset[index2].first<<"\t"<<edgeset[index1].second<<"\t"<<edgeset[index3].second<<", "<<back<<endl;
@@ -261,7 +267,9 @@ void Graph::findMotifs(vector<Motif *> &pattern, int caseN) {
                                 nodeIndex.push_back(edgeIntSet[index3].second);
                                 sort(nodeIndex.begin(), nodeIndex.end());
                                 nodeIndex.erase(unique(nodeIndex.begin(), nodeIndex.end()), nodeIndex.end());
-                                nodes[nodeIndex[0]] = nodes[nodeIndex[1]] = nodes[nodeIndex[2]] = nodes[nodeIndex[3]] = 1;
+                                for (int j = 0; j < nodeIndex.size(); ++j) {
+                                    nodes[nodeIndex[j]] = 1;
+                                }
                                 Motif *t = new Motif(count, edges, nodes, ba);
                                 pattern.push_back(t);
 //								cout<<"Motif "<<count<<":\t"<<edgeset[index1].second<<"\t"<<edgeset[index2].second<<"\t"<<edgeset[index1].first<<"\t"<<edgeset[index3].second<<", "<<ba<<endl;
@@ -306,7 +314,9 @@ void Graph::findMotifs(vector<Motif *> &pattern, int caseN) {
                             nodeIndex.push_back(edgeIntSet[index2].second);
                             sort(nodeIndex.begin(), nodeIndex.end());
                             nodeIndex.erase(unique(nodeIndex.begin(), nodeIndex.end()), nodeIndex.end());
-                            nodes[nodeIndex[0]] = nodes[nodeIndex[1]] = nodes[nodeIndex[2]] = 1;
+                            for (int j = 0; j < nodeIndex.size(); ++j) {
+                                nodes[nodeIndex[j]] = 1;
+                            }
                             Motif *t = new Motif(count, edges, nodes, back);
                             pattern.push_back(t);
                             count++;
