@@ -1,180 +1,176 @@
-"/home/maltom/Documents/SNACS project/venv/bin/python" "/home/maltom/Documents/SNACS project/snacs/experiments.py"
-./motif 1 5 61 "./Real_networks/aarhus" 0.6 1 "./results/aarhus_1_1.txt"
+"./results/aarhus_1_1.txt"
 Number of embedding	Running time(ms)
 23	0
 The motifs are on layers (starting from layer 1):
-./motif 1 5 61 "./Real_networks/aarhus" 0.6 2 "./results/aarhus_1_2.txt"
+"./results/aarhus_1_2.txt"
 Number of embedding	Running time(ms)
 6	0
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-./motif 1 5 61 "./Real_networks/aarhus" 0.6 3 "./results/aarhus_1_3.txt"
+"./results/aarhus_1_3.txt"
 Number of embedding	Running time(ms)
 3	0
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-./motif 2 5 61 "./Real_networks/aarhus" 0.6 1 "./results/aarhus_2_1.txt"
+"./results/aarhus_2_1.txt"
 Number of embedding	Running time(ms)
 10	0
 The motifs are on layers (starting from layer 1):
-./motif 2 5 61 "./Real_networks/aarhus" 0.6 2 "./results/aarhus_2_2.txt"
+"./results/aarhus_2_2.txt"
 Number of embedding	Running time(ms)
 2	0
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-./motif 2 5 61 "./Real_networks/aarhus" 0.6 3 "./results/aarhus_2_3.txt"
+"./results/aarhus_2_3.txt"
 Number of embedding	Running time(ms)
 1	0
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-./motif 3 5 61 "./Real_networks/aarhus" 0.6 1 "./results/aarhus_3_1.txt"
+"./results/aarhus_3_1.txt"
 Number of embedding	Running time(ms)
 6	0
 The motifs are on layers (starting from layer 1):
-./motif 3 5 61 "./Real_networks/aarhus" 0.6 2 "./results/aarhus_3_2.txt"
+"./results/aarhus_3_2.txt"
 Number of embedding	Running time(ms)
 1	0
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-./motif 3 5 61 "./Real_networks/aarhus" 0.6 3 "./results/aarhus_3_3.txt"
+"./results/aarhus_3_3.txt"
 Number of embedding	Running time(ms)
 1	0
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-./motif 4 5 61 "./Real_networks/aarhus" 0.6 1 "./results/aarhus_4_1.txt"
+"./results/aarhus_4_1.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 4 5 61 "./Real_networks/aarhus" 0.6 2 "./results/aarhus_4_2.txt"
+"./results/aarhus_4_2.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 4 5 61 "./Real_networks/aarhus" 0.6 3 "./results/aarhus_4_3.txt"
+"./results/aarhus_4_3.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 1 "./results/ecoil_all_conditions_1_1.txt"
+"./results/ecoil_all_conditions_1_1.txt"
 Number of embedding	Running time(ms)
 3079	232
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 2 "./results/ecoil_all_conditions_1_2.txt"
+"./results/ecoil_all_conditions_1_2.txt"
 Number of embedding	Running time(ms)
 67	5005
 The motifs are on layers (starting from layer 1):
 Layer 3
 Layer 4
 Layer 5
-./motif 1 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 3 "./results/ecoil_all_conditions_1_3.txt"
+"./results/ecoil_all_conditions_1_3.txt"
 Number of embedding	Running time(ms)
 40	2256
 The motifs are on layers (starting from layer 1):
 Layer 2
 Layer 3
 Layer 4
-./motif 2 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 1 "./results/ecoil_all_conditions_2_1.txt"
+"./results/ecoil_all_conditions_2_1.txt"
 Number of embedding	Running time(ms)
 44449	1200
 The motifs are on layers (starting from layer 1):
-./motif 2 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 2 "./results/ecoil_all_conditions_2_2.txt"
+"./results/ecoil_all_conditions_2_2.txt"
 Number of embedding	Running time(ms)
 426	1532294
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
 Layer 4
-./motif 2 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 3 "./results/ecoil_all_conditions_2_3.txt"
+"./results/ecoil_all_conditions_2_3.txt"
 Number of embedding	Running time(ms)
 18	532235
 The motifs are on layers (starting from layer 1):
 Layer 3
 Layer 4
 Layer 5
-./motif 3 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 1 "./results/ecoil_all_conditions_3_1.txt"
+"./results/ecoil_all_conditions_3_1.txt"
 Number of embedding	Running time(ms)
 1114	299
 The motifs are on layers (starting from layer 1):
-./motif 3 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 2 "./results/ecoil_all_conditions_3_2.txt"
+"./results/ecoil_all_conditions_3_2.txt"
 Number of embedding	Running time(ms)
 19	806
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
 Layer 4
-./motif 3 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 3 "./results/ecoil_all_conditions_3_3.txt"
+"./results/ecoil_all_conditions_3_3.txt"
 Number of embedding	Running time(ms)
 9	707
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
 Layer 4
-./motif 4 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 1 "./results/ecoil_all_conditions_4_1.txt"
-consider nodes: 46 314 130, and their common layers 01100
+"./results/ecoil_all_conditions_4_1.txt"
 Number of embedding	Running time(ms)
 0	23
 The motifs are on layers (starting from layer 1):
-./motif 4 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 2 "./results/ecoil_all_conditions_4_2.txt"
-consider nodes: 46 314 130, and their common layers 01100
+"./results/ecoil_all_conditions_4_2.txt"
 Number of embedding	Running time(ms)
 0	23
 The motifs are on layers (starting from layer 1):
-./motif 4 5 1428 "./Real_networks/ecoil_all_conditions" 0.6 3 "./results/ecoil_all_conditions_4_3.txt"
-consider nodes: 46 314 130, and their common layers 01100
+"./results/ecoil_all_conditions_4_3.txt"
 Number of embedding	Running time(ms)
 0	23
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1373 "./Real_networks/ecoil_cold" 0.6 1 "./results/ecoil_cold_1_1.txt"
+"./results/ecoil_cold_1_1.txt"
 Number of embedding	Running time(ms)
 2901	175
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1373 "./Real_networks/ecoil_cold" 0.6 2 "./results/ecoil_cold_1_2.txt"
+"./results/ecoil_cold_1_2.txt"
 Number of embedding	Running time(ms)
 69	4166
 The motifs are on layers (starting from layer 1):
 Layer 3
 Layer 4
 Layer 5
-./motif 1 5 1373 "./Real_networks/ecoil_cold" 0.6 3 "./results/ecoil_cold_1_3.txt"
+"./results/ecoil_cold_1_3.txt"
 Number of embedding	Running time(ms)
 35	2354
 The motifs are on layers (starting from layer 1):
 Layer 3
 Layer 4
 Layer 5
-./motif 2 5 1373 "./Real_networks/ecoil_cold" 0.6 1 "./results/ecoil_cold_2_1.txt"
+"./results/ecoil_cold_2_1.txt"
 Number of embedding	Running time(ms)
 44538	1420
 The motifs are on layers (starting from layer 1):
-./motif 2 5 1373 "./Real_networks/ecoil_cold" 0.6 2 "./results/ecoil_cold_2_2.txt"
+"./results/ecoil_cold_2_2.txt"
 Number of embedding	Running time(ms)
 434	1183284
 The motifs are on layers (starting from layer 1):
 Layer 3
 Layer 4
 Layer 5
-./motif 2 5 1373 "./Real_networks/ecoil_cold" 0.6 3 "./results/ecoil_cold_2_3.txt"
+"./results/ecoil_cold_2_3.txt"
 Number of embedding	Running time(ms)
 17	546508
 The motifs are on layers (starting from layer 1):
 Layer 3
 Layer 4
 Layer 5
-./motif 3 5 1373 "./Real_networks/ecoil_cold" 0.6 1 "./results/ecoil_cold_3_1.txt"
+"./results/ecoil_cold_3_1.txt"
 Number of embedding	Running time(ms)
 962	339
 The motifs are on layers (starting from layer 1):
-./motif 3 5 1373 "./Real_networks/ecoil_cold" 0.6 2 "./results/ecoil_cold_3_2.txt"
+"./results/ecoil_cold_3_2.txt"
 Number of embedding	Running time(ms)
 19	627
 The motifs are on layers (starting from layer 1):
@@ -183,7 +179,7 @@ Layer 2
 Layer 3
 Layer 4
 Layer 5
-./motif 3 5 1373 "./Real_networks/ecoil_cold" 0.6 3 "./results/ecoil_cold_3_3.txt"
+"./results/ecoil_cold_3_3.txt"
 Number of embedding	Running time(ms)
 10	687
 The motifs are on layers (starting from layer 1):
@@ -192,41 +188,41 @@ Layer 2
 Layer 3
 Layer 4
 Layer 5
-./motif 4 5 1373 "./Real_networks/ecoil_cold" 0.6 1 "./results/ecoil_cold_4_1.txt"
+"./results/ecoil_cold_4_1.txt"
 Number of embedding	Running time(ms)
 0	24
 The motifs are on layers (starting from layer 1):
-./motif 4 5 1373 "./Real_networks/ecoil_cold" 0.6 2 "./results/ecoil_cold_4_2.txt"
+"./results/ecoil_cold_4_2.txt"
 Number of embedding	Running time(ms)
 0	37
 The motifs are on layers (starting from layer 1):
-./motif 4 5 1373 "./Real_networks/ecoil_cold" 0.6 3 "./results/ecoil_cold_4_3.txt"
+"./results/ecoil_cold_4_3.txt"
 Number of embedding	Running time(ms)
 0	23
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1340 "./Real_networks/ecoil_control" 0.6 1 "./results/ecoil_control_1_1.txt"
+"./results/ecoil_control_1_1.txt"
 Number of embedding	Running time(ms)
 2955	180
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1340 "./Real_networks/ecoil_control" 0.6 2 "./results/ecoil_control_1_2.txt"
+"./results/ecoil_control_1_2.txt"
 Number of embedding	Running time(ms)
 71	3586
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 2
 Layer 5
-./motif 1 5 1340 "./Real_networks/ecoil_control" 0.6 3 "./results/ecoil_control_1_3.txt"
+"./results/ecoil_control_1_3.txt"
 Number of embedding	Running time(ms)
 35	2188
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 2
 Layer 5
-./motif 2 5 1340 "./Real_networks/ecoil_control" 0.6 1 "./results/ecoil_control_2_1.txt"
+"./results/ecoil_control_2_1.txt"
 Number of embedding	Running time(ms)
 43958	1492
 The motifs are on layers (starting from layer 1):
-./motif 2 5 1340 "./Real_networks/ecoil_control" 0.6 2 "./results/ecoil_control_2_2.txt"
+"./results/ecoil_control_2_2.txt"
 Number of embedding	Running time(ms)
 430	981918
 The motifs are on layers (starting from layer 1):
@@ -234,7 +230,7 @@ Layer 1
 Layer 2
 Layer 3
 Layer 5
-./motif 2 5 1340 "./Real_networks/ecoil_control" 0.6 3 "./results/ecoil_control_2_3.txt"
+"./results/ecoil_control_2_3.txt"
 Number of embedding	Running time(ms)
 18	378613
 The motifs are on layers (starting from layer 1):
@@ -243,18 +239,18 @@ Layer 2
 Layer 3
 Layer 4
 Layer 5
-./motif 3 5 1340 "./Real_networks/ecoil_control" 0.6 1 "./results/ecoil_control_3_1.txt"
+"./results/ecoil_control_3_1.txt"
 Number of embedding	Running time(ms)
 994	228
 The motifs are on layers (starting from layer 1):
-./motif 3 5 1340 "./Real_networks/ecoil_control" 0.6 2 "./results/ecoil_control_3_2.txt"
+"./results/ecoil_control_3_2.txt"
 Number of embedding	Running time(ms)
 19	504
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 2
 Layer 5
-./motif 3 5 1340 "./Real_networks/ecoil_control" 0.6 3 "./results/ecoil_control_3_3.txt"
+"./results/ecoil_control_3_3.txt"
 Number of embedding	Running time(ms)
 8	370
 The motifs are on layers (starting from layer 1):
@@ -263,48 +259,48 @@ Layer 2
 Layer 3
 Layer 4
 Layer 5
-./motif 4 5 1340 "./Real_networks/ecoil_control" 0.6 1 "./results/ecoil_control_4_1.txt"
+"./results/ecoil_control_4_1.txt"
 Number of embedding	Running time(ms)
 0	17
 The motifs are on layers (starting from layer 1):
-./motif 4 5 1340 "./Real_networks/ecoil_control" 0.6 2 "./results/ecoil_control_4_2.txt"
+"./results/ecoil_control_4_2.txt"
 Number of embedding	Running time(ms)
 0	18
 The motifs are on layers (starting from layer 1):
-./motif 4 5 1340 "./Real_networks/ecoil_control" 0.6 3 "./results/ecoil_control_4_3.txt"
+"./results/ecoil_control_4_3.txt"
 Number of embedding	Running time(ms)
 0	18
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1375 "./Real_networks/ecoil_heat" 0.6 1 "./results/ecoil_heat_1_1.txt"
+"./results/ecoil_heat_1_1.txt"
 Number of embedding	Running time(ms)
 2393	101
 The motifs are on layers (starting from layer 1):
-./motif 1 5 1375 "./Real_networks/ecoil_heat" 0.6 2 "./results/ecoil_heat_1_2.txt"
+"./results/ecoil_heat_1_2.txt"
 Number of embedding	Running time(ms)
 83	2604
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
 Layer 4
-./motif 1 5 1375 "./Real_networks/ecoil_heat" 0.6 3 "./results/ecoil_heat_1_3.txt"
+"./results/ecoil_heat_1_3.txt"
 Number of embedding	Running time(ms)
 45	1648
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
 Layer 4
-./motif 2 5 1375 "./Real_networks/ecoil_heat" 0.6 1 "./results/ecoil_heat_2_1.txt"
+"./results/ecoil_heat_2_1.txt"
 Number of embedding	Running time(ms)
 24017	593
 The motifs are on layers (starting from layer 1):
-./motif 2 5 1375 "./Real_networks/ecoil_heat" 0.6 2 "./results/ecoil_heat_2_2.txt"
+"./results/ecoil_heat_2_2.txt"
 Number of embedding	Running time(ms)
 371	362753
 The motifs are on layers (starting from layer 1):
 Layer 3
 Layer 4
 Layer 5
-./motif 2 5 1375 "./Real_networks/ecoil_heat" 0.6 3 "./results/ecoil_heat_2_3.txt"
+"./results/ecoil_heat_2_3.txt"
 Number of embedding	Running time(ms)
 21	109984
 The motifs are on layers (starting from layer 1):
@@ -312,11 +308,11 @@ Layer 2
 Layer 3
 Layer 4
 Layer 5
-./motif 3 5 1375 "./Real_networks/ecoil_heat" 0.6 1 "./results/ecoil_heat_3_1.txt"
+"./results/ecoil_heat_3_1.txt"
 Number of embedding	Running time(ms)
 692	175
 The motifs are on layers (starting from layer 1):
-./motif 3 5 1375 "./Real_networks/ecoil_heat" 0.6 2 "./results/ecoil_heat_3_2.txt"
+"./results/ecoil_heat_3_2.txt"
 Number of embedding	Running time(ms)
 20	340
 The motifs are on layers (starting from layer 1):
@@ -324,7 +320,7 @@ Layer 1
 Layer 3
 Layer 4
 Layer 5
-./motif 3 5 1375 "./Real_networks/ecoil_heat" 0.6 3 "./results/ecoil_heat_3_3.txt"
+"./results/ecoil_heat_3_3.txt"
 Number of embedding	Running time(ms)
 9	223
 The motifs are on layers (starting from layer 1):
@@ -332,13 +328,13 @@ Layer 1
 Layer 3
 Layer 4
 Layer 5
-./motif 4 5 1375 "./Real_networks/ecoil_heat" 0.6 1 "./results/ecoil_heat_4_1.txt"
+"./results/ecoil_heat_4_1.txt"
 consider nodes: 49 60 266, and their common layers 11111
 generate a motif
 Number of embedding	Running time(ms)
 1	36
 The motifs are on layers (starting from layer 1):
-./motif 4 5 1375 "./Real_networks/ecoil_heat" 0.6 2 "./results/ecoil_heat_4_2.txt"
+"./results/ecoil_heat_4_2.txt"
 consider nodes: 49 60 266, and their common layers 11111
 generate a motif
 Number of embedding	Running time(ms)
@@ -349,9 +345,7 @@ Layer 2
 Layer 3
 Layer 4
 Layer 5
-./motif 4 5 1375 "./Real_networks/ecoil_heat" 0.6 3 "./results/ecoil_heat_4_3.txt"
-consider nodes: 49 60 266, and their common layers 11111
-generate a motif
+"./results/ecoil_heat_4_3.txt"
 Number of embedding	Running time(ms)
 1	17
 The motifs are on layers (starting from layer 1):
@@ -360,256 +354,195 @@ Layer 2
 Layer 3
 Layer 4
 Layer 5
-./motif 1 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_1_1.txt"
-Segmentation fault (core dumped)
-./motif 1 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_1_2.txt"
-Segmentation fault (core dumped)
-./motif 1 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_1_3.txt"
-Segmentation fault (core dumped)
-./motif 2 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_2_1.txt"
-Segmentation fault (core dumped)
-./motif 2 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_2_2.txt"
-Segmentation fault (core dumped)
-./motif 2 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_2_3.txt"
-Segmentation fault (core dumped)
-./motif 3 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_3_1.txt"
-Segmentation fault (core dumped)
-./motif 3 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_3_2.txt"
-Segmentation fault (core dumped)
-./motif 3 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_3_3.txt"
-Segmentation fault (core dumped)
-./motif 4 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_4_1.txt"
-Segmentation fault (core dumped)
-./motif 4 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_4_2.txt"
-Segmentation fault (core dumped)
-./motif 4 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_4_3.txt"
-Segmentation fault (core dumped)
-./motif 1 5 1527 "./Real_networks/ecoil_oxidative" 0.6 1 "./results/ecoil_oxidative_1_1.txt"
-Segmentation fault (core dumped)
-./motif 1 5 1527 "./Real_networks/ecoil_oxidative" 0.6 2 "./results/ecoil_oxidative_1_2.txt"
-Segmentation fault (core dumped)
-./motif 1 5 1527 "./Real_networks/ecoil_oxidative" 0.6 3 "./results/ecoil_oxidative_1_3.txt"
-Segmentation fault (core dumped)
-./motif 2 5 1527 "./Real_networks/ecoil_oxidative" 0.6 1 "./results/ecoil_oxidative_2_1.txt"
-Number of embedding	Running time(ms)
-47460	1421
-The motifs are on layers (starting from layer 1):
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
-Aborted (core dumped)
-./motif 2 5 1527 "./Real_networks/ecoil_oxidative" 0.6 2 "./results/ecoil_oxidative_2_2.txt"
+"./results/ecoil_oxidative_2_2.txt"
 Number of embedding	Running time(ms)
 469	1545930
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
 Layer 4
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
-Aborted (core dumped)
-./motif 2 5 1527 "./Real_networks/ecoil_oxidative" 0.6 3 "./results/ecoil_oxidative_2_3.txt"
+"./results/ecoil_oxidative_2_3.txt"
 Number of embedding	Running time(ms)
 26	487369
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
 Layer 4
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
-Aborted (core dumped)
-./motif 3 5 1527 "./Real_networks/ecoil_oxidative" 0.6 1 "./results/ecoil_oxidative_3_1.txt"
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:863: boost::dynamic_bitset<Block, Allocator>& boost::dynamic_bitset<Block, Allocator>::operator&=(const boost::dynamic_bitset<Block, Allocator>&) [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `size() == rhs.size()' failed.
-Aborted (core dumped)
-./motif 3 5 1527 "./Real_networks/ecoil_oxidative" 0.6 2 "./results/ecoil_oxidative_3_2.txt"
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:863: boost::dynamic_bitset<Block, Allocator>& boost::dynamic_bitset<Block, Allocator>::operator&=(const boost::dynamic_bitset<Block, Allocator>&) [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `size() == rhs.size()' failed.
-Aborted (core dumped)
-./motif 3 5 1527 "./Real_networks/ecoil_oxidative" 0.6 3 "./results/ecoil_oxidative_3_3.txt"
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:863: boost::dynamic_bitset<Block, Allocator>& boost::dynamic_bitset<Block, Allocator>::operator&=(const boost::dynamic_bitset<Block, Allocator>&) [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `size() == rhs.size()' failed.
-Aborted (core dumped)
-./motif 4 5 1527 "./Real_networks/ecoil_oxidative" 0.6 1 "./results/ecoil_oxidative_4_1.txt"
-consider nodes: 112 122 472, and their common layers 11001
-generate a motif
+"./results/ecoil_oxidative_4_1.txt"
 Number of embedding	Running time(ms)
 1	29
 The motifs are on layers (starting from layer 1):
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
-Aborted (core dumped)
-./motif 4 5 1527 "./Real_networks/ecoil_oxidative" 0.6 2 "./results/ecoil_oxidative_4_2.txt"
-consider nodes: 112 122 472, and their common layers 11001
-generate a motif
+"./results/ecoil_oxidative_4_2.txt"
 Number of embedding	Running time(ms)
 1	41
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
-Aborted (core dumped)
-./motif 4 5 1527 "./Real_networks/ecoil_oxidative" 0.6 3 "./results/ecoil_oxidative_4_3.txt"
-consider nodes: 112 122 472, and their common layers 11001
-generate a motif
+"./results/ecoil_oxidative_4_3.txt"
 Number of embedding	Running time(ms)
 1	21
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 4
 Layer 5
-motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
-Aborted (core dumped)
-./motif 1 37 450 "./Real_networks/eu airlines" 0.6 1 "./results/eu airlines_1_1.txt"
+"./results/eu airlines_1_1.txt"
 Number of embedding	Running time(ms)
 0	5
 The motifs are on layers (starting from layer 1):
-./motif 1 37 450 "./Real_networks/eu airlines" 0.6 2 "./results/eu airlines_1_2.txt"
+"./results/eu airlines_1_2.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 1 37 450 "./Real_networks/eu airlines" 0.6 3 "./results/eu airlines_1_3.txt"
+"./results/eu airlines_1_3.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 2 37 450 "./Real_networks/eu airlines" 0.6 1 "./results/eu airlines_2_1.txt"
+"./results/eu airlines_2_1.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 2 37 450 "./Real_networks/eu airlines" 0.6 2 "./results/eu airlines_2_2.txt"
+"./results/eu airlines_2_2.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 2 37 450 "./Real_networks/eu airlines" 0.6 3 "./results/eu airlines_2_3.txt"
+"./results/eu airlines_2_3.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 3 37 450 "./Real_networks/eu airlines" 0.6 1 "./results/eu airlines_3_1.txt"
+"./results/eu airlines_3_1.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 3 37 450 "./Real_networks/eu airlines" 0.6 2 "./results/eu airlines_3_2.txt"
+"./results/eu airlines_3_2.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 3 37 450 "./Real_networks/eu airlines" 0.6 3 "./results/eu airlines_3_3.txt"
+"./results/eu airlines_3_3.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 4 37 450 "./Real_networks/eu airlines" 0.6 1 "./results/eu airlines_4_1.txt"
+"./results/eu airlines_4_1.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 4 37 450 "./Real_networks/eu airlines" 0.6 2 "./results/eu airlines_4_2.txt"
+"./results/eu airlines_4_2.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 4 37 450 "./Real_networks/eu airlines" 0.6 3 "./results/eu airlines_4_3.txt"
+"./results/eu airlines_4_3.txt"
 Number of embedding	Running time(ms)
 0	3
 The motifs are on layers (starting from layer 1):
-./motif 1 3 71 "./Real_networks/law" 0.6 1 "./results/law_1_1.txt"
+"./results/law_1_1.txt"
 Number of embedding	Running time(ms)
 2524	24
 The motifs are on layers (starting from layer 1):
-./motif 1 3 71 "./Real_networks/law" 0.6 2 "./results/law_1_2.txt"
+"./results/law_1_2.txt"
 Number of embedding	Running time(ms)
 165	1188
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 1 3 71 "./Real_networks/law" 0.6 3 "./results/law_1_3.txt"
+"./results/law_1_3.txt"
 Number of embedding	Running time(ms)
 20	480
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 2 3 71 "./Real_networks/law" 0.6 1 "./results/law_2_1.txt"
+"./results/law_2_1.txt"
 Number of embedding	Running time(ms)
 6356	55
 The motifs are on layers (starting from layer 1):
-./motif 2 3 71 "./Real_networks/law" 0.6 2 "./results/law_2_2.txt"
+"./results/law_2_2.txt"
 Number of embedding	Running time(ms)
 122	5501
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 2 3 71 "./Real_networks/law" 0.6 3 "./results/law_2_3.txt"
+"./results/law_2_3.txt"
 Number of embedding	Running time(ms)
 14	3023
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 3 3 71 "./Real_networks/law" 0.6 1 "./results/law_3_1.txt"
+"./results/law_3_1.txt"
 Number of embedding	Running time(ms)
 8723	72
 The motifs are on layers (starting from layer 1):
-./motif 3 3 71 "./Real_networks/law" 0.6 2 "./results/law_3_2.txt"
+"./results/law_3_2.txt"
 Number of embedding	Running time(ms)
 125	9744
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 3 3 71 "./Real_networks/law" 0.6 3 "./results/law_3_3.txt"
+"./results/law_3_3.txt"
 Number of embedding	Running time(ms)
 16	5687
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 4 3 71 "./Real_networks/law" 0.6 1 "./results/law_4_1.txt"
+"./results/law_4_1.txt"
 Number of embedding	Running time(ms)
 521	20
 The motifs are on layers (starting from layer 1):
-./motif 4 3 71 "./Real_networks/law" 0.6 2 "./results/law_4_2.txt"
+"./results/law_4_2.txt"
 Number of embedding	Running time(ms)
 76	83
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 4 3 71 "./Real_networks/law" 0.6 3 "./results/law_4_3.txt"
+"./results/law_4_3.txt"
 Number of embedding	Running time(ms)
 14	43
 The motifs are on layers (starting from layer 1):
 Layer 1
 Layer 3
-./motif 1 3 369 "./Real_networks/london transport" 0.6 1 "./results/london transport_1_1.txt"
+"./results/london transport_1_1.txt"
 Number of embedding	Running time(ms)
 0	2
 The motifs are on layers (starting from layer 1):
-./motif 1 3 369 "./Real_networks/london transport" 0.6 2 "./results/london transport_1_2.txt"
+"./results/london transport_1_2.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 1 3 369 "./Real_networks/london transport" 0.6 3 "./results/london transport_1_3.txt"
+"./results/london transport_1_3.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 2 3 369 "./Real_networks/london transport" 0.6 1 "./results/london transport_2_1.txt"
+"./results/london transport_2_1.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 2 3 369 "./Real_networks/london transport" 0.6 2 "./results/london transport_2_2.txt"
+"./results/london transport_2_2.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 2 3 369 "./Real_networks/london transport" 0.6 3 "./results/london transport_2_3.txt"
+"./results/london transport_2_3.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 3 3 369 "./Real_networks/london transport" 0.6 1 "./results/london transport_3_1.txt"
+"./results/london transport_3_1.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 3 3 369 "./Real_networks/london transport" 0.6 2 "./results/london transport_3_2.txt"
+"./results/london transport_3_2.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 3 3 369 "./Real_networks/london transport" 0.6 3 "./results/london transport_3_3.txt"
+"./results/london transport_3_3.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 4 3 369 "./Real_networks/london transport" 0.6 1 "./results/london transport_4_1.txt"
+"./results/london transport_4_1.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 4 3 369 "./Real_networks/london transport" 0.6 2 "./results/london transport_4_2.txt"
+"./results/london transport_4_2.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):
-./motif 4 3 369 "./Real_networks/london transport" 0.6 3 "./results/london transport_4_3.txt"
+"./results/london transport_4_3.txt"
 Number of embedding	Running time(ms)
 0	0
 The motifs are on layers (starting from layer 1):

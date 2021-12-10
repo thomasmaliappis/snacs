@@ -1,0 +1,50 @@
+
+./motif 1 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_1_1.txt"
+Segmentation fault (core dumped)
+./motif 1 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_1_2.txt"
+Segmentation fault (core dumped)
+./motif 1 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_1_3.txt"
+Segmentation fault (core dumped)
+./motif 2 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_2_1.txt"
+Segmentation fault (core dumped)
+./motif 2 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_2_2.txt"
+Segmentation fault (core dumped)
+./motif 2 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_2_3.txt"
+Segmentation fault (core dumped)
+./motif 3 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_3_1.txt"
+Segmentation fault (core dumped)
+./motif 3 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_3_2.txt"
+Segmentation fault (core dumped)
+./motif 3 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_3_3.txt"
+Segmentation fault (core dumped)
+./motif 4 5 1542 "./Real_networks/ecoil_lactose" 0.6 1 "./results/ecoil_lactose_4_1.txt"
+Segmentation fault (core dumped)
+./motif 4 5 1542 "./Real_networks/ecoil_lactose" 0.6 2 "./results/ecoil_lactose_4_2.txt"
+Segmentation fault (core dumped)
+./motif 4 5 1542 "./Real_networks/ecoil_lactose" 0.6 3 "./results/ecoil_lactose_4_3.txt"
+Segmentation fault (core dumped)
+./motif 1 5 1527 "./Real_networks/ecoil_oxidative" 0.6 1 "./results/ecoil_oxidative_1_1.txt"
+Segmentation fault (core dumped)
+./motif 1 5 1527 "./Real_networks/ecoil_oxidative" 0.6 2 "./results/ecoil_oxidative_1_2.txt"
+Segmentation fault (core dumped)
+./motif 1 5 1527 "./Real_networks/ecoil_oxidative" 0.6 3 "./results/ecoil_oxidative_1_3.txt"
+Segmentation fault (core dumped)
+./motif 2 5 1527 "./Real_networks/ecoil_oxidative" 0.6 1 "./results/ecoil_oxidative_2_1.txt"
+Number of embedding	Running time(ms)
+47460	1421
+The motifs are on layers (starting from layer 1):
+motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
+Aborted (core dumped)
+motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
+Aborted (core dumped)
+./motif 3 5 1527 "./Real_networks/ecoil_oxidative" 0.6 1 "./results/ecoil_oxidative_3_1.txt"
+motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:863: boost::dynamic_bitset<Block, Allocator>& boost::dynamic_bitset<Block, Allocator>::operator&=(const boost::dynamic_bitset<Block, Allocator>&) [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `size() == rhs.size()' failed.
+Aborted (core dumped)
+./motif 3 5 1527 "./Real_networks/ecoil_oxidative" 0.6 2 "./results/ecoil_oxidative_3_2.txt"
+motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:863: boost::dynamic_bitset<Block, Allocator>& boost::dynamic_bitset<Block, Allocator>::operator&=(const boost::dynamic_bitset<Block, Allocator>&) [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `size() == rhs.size()' failed.
+Aborted (core dumped)
+./motif 3 5 1527 "./Real_networks/ecoil_oxidative" 0.6 3 "./results/ecoil_oxidative_3_3.txt"
+motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:863: boost::dynamic_bitset<Block, Allocator>& boost::dynamic_bitset<Block, Allocator>::operator&=(const boost::dynamic_bitset<Block, Allocator>&) [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `size() == rhs.size()' failed.
+Aborted (core dumped)
+motif: ../boost_1_77_0/boost/dynamic_bitset/dynamic_bitset.hpp:702: boost::dynamic_bitset<Block, Allocator>::~dynamic_bitset() [with Block = long unsigned int; Allocator = std::allocator<long unsigned int>]: Assertion `m_check_invariants()' failed.
+Aborted (core dumped)
