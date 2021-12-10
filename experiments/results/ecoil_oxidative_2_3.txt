@@ -66,10 +66,6 @@ ompR	ompC
 ompR	micF
 lrp	micF
 lrp	ompC
-betI	betA
-betI	betT
-fruR	betA
-fruR	betT
 mntR	yebN
 mntR	mntH
 fur	mntH
@@ -90,10 +86,10 @@ ulaR	ulaF
 ulaR	ulaC
 ihfA-ihfB	ulaC
 ihfA-ihfB	ulaF
-arcA	aceB
-arcA	aceK
-iclR	aceB
-iclR	aceK
+arcA	betT
+betI	betA
+betI	betT
+arcA	betA
 fnr	ssuA
 cysB	ssuB
 cysB	ssuA

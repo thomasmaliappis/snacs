@@ -1,0 +1,3 @@
+rcsB	gadX
+gadX	hns
+hns	rcsB
