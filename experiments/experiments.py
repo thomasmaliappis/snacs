@@ -67,6 +67,6 @@ for data_file in data_files.keys():
             layers = data_files[data_file]['layers']
             input_file = data_files[data_file]['name']
             output_file = './results/{}_{}_{}.txt'.format(data_files[data_file]['name'], motif_type, f_measure)
-            command = './motif {} {} {} "./Real_networks/{}" {} {} "{}"'.format(motif_type, layers, nodes, input_file, threshold, f_measure, output_file)
+            command = './motif {} {} {} "../Real_networks/{}" {} {} "{}"'.format(motif_type, layers, nodes, input_file, threshold, f_measure, output_file)
             print(command)
             os.system(command)
